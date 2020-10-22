@@ -206,7 +206,6 @@
               <md-table-cell><b>{{a.total | usd}}</b></md-table-cell>
               <md-table-cell >
                 <md-button id="investButton" class="md-raised md-primary md-small" @click="a.name == 'Balancer' ? showInvestmentPanelBalancer = true : showInvestmentPanelMeta = true">Invest</md-button>
-                <md-button id="redeemButton" class="md-raised md-accent md-small" @click="a.name == 'Balancer' ? showRedemptionPanelBalancer = true : showRedemptionPanelMeta = true">Redeem</md-button>
               </md-table-cell>
             </md-table-row>
           </md-table>
