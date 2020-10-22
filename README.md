@@ -54,6 +54,3 @@ Smart contracts test could be executed by typing:
 
     npx buidler test
 
-# Development
-
-This project was funded by the Avalanche-X grant programme.
