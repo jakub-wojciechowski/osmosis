@@ -1,7 +1,8 @@
 # Overview
 
 ## OSMOsis - Defi yield multiplier
-It redirects unused funds from Aave through credit delegation to allowed leveraged yield from defi protocols.
+It redirects unused funds from Aave via the credit delegation mechanism
+leveraging possible yield from defi protocols.
 
 # Building
 
