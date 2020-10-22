@@ -6,7 +6,7 @@ leveraging possible yield from defi protocols.
 
 The application was built during the EthOnline hackathon.
 
-- <a href="https://https://osmo.vercel.app/" target="_blank">Live demo on the Kovan testnet</a>
+- <a href="https://osmo.vercel.app/" target="_blank">Live demo on the Kovan testnet</a>
 
 - <a href="https://www.youtube.com/watch?v=SSQfklns0zc" target="_blank">Demo video</a>
 
